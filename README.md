@@ -4,33 +4,57 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ezequiel</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋</h1></summary>
   </ul>
-</div>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Building, Learning and Improving Every Day 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Desarrollador y Analista Junior en busca de oportunidades</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🎓 Actualmente soy **estudiante de Ingeniería en Informática** (3er año).
-- 💻 Interesado en **desarrollo de software** y **análisis de datos**.
-- 🧪 Experiencia creando aplicaciones para **proyectos internos de DuocUC**.
-- 🌐 Te invito a visitar mi LinkedIn: **www.linkedin.com/in/ezequielesq**
-- 💼 Programo en:
+- Actualmente soy **estudiante de Ingeniería en Informática** (3er año).
+- Interesado en **desarrollo de software** y **análisis de datos**.
+- Experiencia creando aplicaciones para **proyectos internos de DuocUC**.
+- Te invito a visitar mi LinkedIn: **www.linkedin.com/in/ezequielesq**
+- Programo en:
   - **Frontend:** Angular, HTML, CSS, SCSS, Bootstrap  
   - **Backend:** Laravel, Spring Boot, PHP, SQL
-- 🌍 Idiomas: Español (nativo) e Inglés (intermedio).
+- Idiomas: Español (nativo) e Inglés (intermedio).
 <!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📂 Demostraciones</h2></summary>
+  </ul>
+</div>
+
+---
+
+## 🗺️ **InMapi – Mapa Indoor (Angular + Leaflet)**
+Aplicación de navegación indoor desarrollada con Angular, JavaScript y Leaflet.  
+Permite rutas por piso, búsqueda de salas y soporte para modo de emergencia.
+
+<div align="center">
+  <a href="https://www.ezsuarez.org/I-CORP/#/home/map" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-InMapi-blue?style=for-the-badge&logo=angular" />
+  </a>
+</div>
+
+---
+
+## 🛰️ **SAVIS – Procesamiento de Imágenes Satelitales**
+Plataforma web para visualización y procesamiento de imágenes satelitales GOES-19 e Himawari-9 en tiempo real.
+
+<div align="center">
+  <a href="https://savis.cl/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-SAVIS-purple?style=for-the-badge&logo=google-earth" />
+  </a>
+</div>
 
 ---
 
@@ -95,24 +119,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 </p>
-
----
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📂 My Projects</h2></summary>
-  </ul>
-</div>
-
-### Aquí irán mis proyectos destacados:
-- 🔗 **Proyecto 1:** _[Añade el enlace aquí]_  
-- 🔗 **Proyecto 2:** _[Añade el enlace aquí]_  
-- 🔗 **Proyecto 3:** _[Añade el enlace aquí]_  
-
-> Puedes añadir tantos como quieras. Si quieres, también puedo crearte tarjetas visuales.
-
----
 
 <!--profile visit count-->
 <div align="center">
