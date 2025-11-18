@@ -23,6 +23,10 @@
 - Programo en:
   - **Frontend:** Angular, HTML, CSS, SCSS, Bootstrap  
   - **Backend:** Laravel, Spring Boot, PHP, SQL
+- Analizo datos con:
+  - **Power BI**
+  - *Procesos ETL**
+  - **CRISP-DM**
 - Idiomas: Español (nativo) e Inglés (intermedio).
 <!--Intro end-->
 
