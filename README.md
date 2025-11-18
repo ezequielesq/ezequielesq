@@ -66,8 +66,7 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <td width="50%" align="center">
   
   <!-- GitHub Stats (incluye repos privados) -->
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=ezequielesq&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-nine-self-69.vercel.app/api?username=ezequielesq&count_private=true&show_icons=true&theme=dark" />
 
   <br><br>
 
@@ -80,8 +79,7 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <td width="50%" align="center">
 
   <!-- Most Used Languages (optimizado para Angular) -->
-  <img align="center"  
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielesq&theme=dark&layout=compact&count_private=true&hide=node_modules,dist,public&langs_count=10" />
+  <img src="https://github-readme-stats-nine-self-69.vercel.app/api/top-langs/?username=ezequielesq&count_private=true&layout=compact&theme=dark" />
 
 </td>
 
